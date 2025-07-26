@@ -6,3 +6,5 @@
 123456feature
 123456
 Creating a new branch is quick AND simple.
+
+使用 --no-ff
